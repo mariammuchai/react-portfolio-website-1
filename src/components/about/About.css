@@ -19,6 +19,7 @@
     transform: rotate(10deg);
     height: 100%;
     transition: var(--transition);
+    width: 100%;
 }
 
 .about__me-image:hover {
